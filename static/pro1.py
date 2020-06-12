@@ -1,6 +1,6 @@
 import pymongo
 
-hosts = 'mongodb://root:Password_Alice@127.0.0.1:8001/'
+hosts = 'mongodb://pass@127.0.0.1:8001/'
 # 修改数据库链接
 
 log_file = '/var/log/users/app.log'
