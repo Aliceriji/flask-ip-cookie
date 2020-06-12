@@ -1,7 +1,7 @@
 thread_num = 2
 redis_hosts = '127.0.0.1'
 redis_port = 8002
-redis_pwd = 'Password_Alice'
+redis_pwd = 'pass'
 
 bak_file  = 'All.redis'
 
